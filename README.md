@@ -1,7 +1,5 @@
 # Central Ingress and Egress using AWS Network Firewall and Transit Gateway
-### Terraform code to create the stack. Read the blog 
-[here](https://medium.com/@mahmood1/central-ingress-and-egress-using-aws-network-firewall-and-transit-gateway-part-1-setting-up-aws-4036020723bf) 
-first.
+### Terraform code to create the stack. Read the blog [here](https://medium.com/@mahmood1/central-ingress-and-egress-using-aws-network-firewall-and-transit-gateway-part-1-setting-up-aws-4036020723bf) first.
 
 ##### Running the TF code
 
